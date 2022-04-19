@@ -1,2 +1,3 @@
-# Minecraft
-All The Information About Our Minecraft Server :)
+# שרת המיינקראפט
+ברוכים הבאים לפרוייקט המיינקראפט שלנו!\
+אכן תוכלו ללמוד הכל על מערכות השרת והפלאגינים שלנו.
