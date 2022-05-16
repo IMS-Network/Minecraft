@@ -1,6 +1,6 @@
 remote_theme: just-the-docs/just-the-docs
 title: Just the Docs
 description: A Jekyll theme for documentation
-baseurl: "/just-the-docs" 
+baseurl: "/Minecraft" 
 url: "https://ims-network.github.io"
 theme: jekyll-theme-slate
