@@ -4,3 +4,4 @@ description: A Jekyll theme for documentation
 baseurl: "/Minecraft" 
 url: "https://ims-network.github.io"
 theme: jekyll-theme-slate
+search_enabled: true
