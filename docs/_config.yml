@@ -50,7 +50,8 @@ nav_sort: case_sensitive # Capital letters sorted before lowercase
 back_to_top: true
 back_to_top_text: "חזרה למעלה"
 
-footer_content: "כל הזכויות שמורות ל IMS - Network"
+footer_content: "<p style="text-align:right">&copy;&nbsp;<a href="https://israelmincraftml.wixsite.com/ims-network/terms">IMS - Network</a> כל הזכויות שמורות ל</p>
+"
 
 # Footer last edited timestamp
 last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
@@ -60,7 +61,7 @@ last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https:/
 
 # Footer "Edit this page on GitHub" link text
 gh_edit_link: true # show or hide edit this page link
-gh_edit_link_text: "לערוך את הדף הזה ב-GitHub"
+gh_edit_link_text: "GitHub-לערוך את הדף הזה ב"
 gh_edit_repository: "https://github.com/IMS-Network/Minecraft/docs" # the github URL for your repo
 gh_edit_branch: "main" # the branch that your docs is served from
 # gh_edit_source: docs # the source that your files originate from
