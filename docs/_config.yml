@@ -5,6 +5,7 @@ baseurl: "/Minecraft"
 url: "https://ims-network.github.io"
 search_enabled: true
 logo: "docs/photos/IMS_Logo_NoBackground.png"
+permalink: pretty
 search:
   # Split pages into sections that can be searched individually
   # Supports 1 - 6, default: 2
