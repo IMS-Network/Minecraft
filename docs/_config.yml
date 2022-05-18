@@ -2,7 +2,7 @@ remote_theme: just-the-docs/just-the-docs
 title: IMS - Network
 description: Docs
 baseurl: "/Minecraft"
-url: "https://docs.ims-network.net"
+url: "https://ims-network.github.io"
 search_enabled: true
 logo: "docs/photos/IMS_Logo_NoBackground.png"
 search:
