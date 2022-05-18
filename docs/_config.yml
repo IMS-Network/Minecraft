@@ -50,8 +50,7 @@ nav_sort: case_sensitive # Capital letters sorted before lowercase
 back_to_top: true
 back_to_top_text: "חזרה למעלה"
 
-footer_content: "<p style="text-align:right">&copy;&nbsp;<a href="https://israelmincraftml.wixsite.com/ims-network/terms">IMS - Network</a> כל הזכויות שמורות ל</p>
-"
+footer_content: "<a href="https://israelmincraftml.wixsite.com/ims-network/terms">IMS - Network</a> כל הזכויות שמורות ל"
 
 # Footer last edited timestamp
 last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
