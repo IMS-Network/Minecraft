@@ -1,7 +1,7 @@
 remote_theme: just-the-docs/just-the-docs
 title: IMS - Network Docs
 description: הויקי של שרת המיינקראפט שלנו
-baseurl: "/Minecraft"
+baseurl: ""
 url: "http://docs.ims-network.net/"
 search_enabled: true
 logo: "docs/photos/IMS_Logo_NoBackground.png"
