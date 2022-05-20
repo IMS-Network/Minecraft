@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <path d="M0 0L48 0L48 48L0 48L0 0Z" id="path_1" />
+    <clipPath id="mask_1">
+      <use xlink:href="#path_1" />
+    </clipPath>
+  </defs>
+  <g id="Play-Button-icon">
+    <path d="M0 0L48 0L48 48L0 48L0 0Z" id="Background" fill="none" fill-rule="evenodd" stroke="none" />
+    <g clip-path="url(#mask_1)">
+      <path d="M43.2 33.9C42.8 36 41.1 37.6 39 37.9C35.7 38.4 30.2 39 24 39C17.9 39 12.4 38.4 9 37.9C6.9 37.6 5.2 36 4.8 33.9C4.4 31.6 4 28.2 4 24C4 19.8 4.4 16.4 4.8 14.1C5.2 12 6.9 10.4 9 10.1C12.3 9.6 17.8 9 24 9C30.2 9 35.6 9.6 39 10.1C41.1 10.4 42.8 12 43.2 14.1C43.6 16.4 44.1 19.8 44.1 24C44 28.2 43.6 31.6 43.2 33.9L43.2 33.9Z" id="Shape" fill="#FF3D00" stroke="none" />
+      <path d="M20 31L20 17L32 24L20 31Z" id="Shape" fill="#FFFFFF" stroke="none" />
+    </g>
+  </g>
+</svg>
