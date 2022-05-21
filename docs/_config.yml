@@ -1,10 +1,10 @@
 remote_theme: just-the-docs/just-the-docs
 title: IMS - Network Docs
-description: הויקי של שרת המיינקראפט שלנו
+description: זה הויקי של שרת המיינקראפט שלנו, כל מה שאתם צריכים לדעת נמצא פה
 baseurl: ""
 url: "http://docs.ims-network.net/"
 search_enabled: true
-logo: "docs/photos/IMS_Logo_NoBackground.png"
+logo: "docs/photos/Home-icon.svg"
 permalink: pretty
 search:
   # Split pages into sections that can be searched individually
@@ -39,6 +39,8 @@ aux_links:
     - "https://israelmincraftml.wixsite.com/ims-network"
   "דיסקורד":
     - "https://discord.ims-network.net"
+  "סטאטוס שירות":
+    - "https://stats.ims-network.net" 
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: true
