@@ -12,7 +12,7 @@ nav_order: 2
 בשביל להיכנס לשחק בשרת חייב להוריד את האפלקצייה שלנו, האפלקצייה מסדרת ומארגנת את הקבצים של השרת כמו שצריך ודואגת לכל הדברים והבעיות.\
 **מורידים את האפלקצייה**
 הורידו את האפלקצייה שלנו/
-[הורדה](http://example.com/){: .btn }
+[הורדה](http://example.com/){: .btn }/
 {: .float-right}
 שימו 🖤 שיש לכם גישה להתקין קצבים במחשב
 {: .label .label-red }
