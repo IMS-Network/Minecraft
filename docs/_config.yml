@@ -5,7 +5,7 @@ baseurl: ""
 url: "http://docs.ims-network.net/"
 search_enabled: true
 logo: "docs/photos/Home-icon.svg"
-permalink: /Minecraft/
+permalink: /Pages/
 search:
   # Split pages into sections that can be searched individually
   # Supports 1 - 6, default: 2
@@ -60,7 +60,7 @@ footer_content: "IMS - Network כל הזכויות שמורות ל"
 
 # Footer last edited timestamp
 last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
-last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https://ruby-doc.org/stdlib-2.7.0/libdoc/time/rdoc/Time.html
+last_edit_time_format: "בתאריך: %b %e %Y בשעה: %I:%M %p" # uses ruby's time format: https://ruby-doc.org/stdlib-2.7.0/libdoc/time/rdoc/Time.html
 
 
 
