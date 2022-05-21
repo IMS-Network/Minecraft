@@ -4,7 +4,6 @@ description: זה הויקי של שרת המיינקראפט שלנו, כל מ�
 baseurl: ""
 url: "http://docs.ims-network.net/"
 search_enabled: true
-logo: "docs/photos/Home-icon.svg"
 permalink: /Pages/
 search:
   # Split pages into sections that can be searched individually
