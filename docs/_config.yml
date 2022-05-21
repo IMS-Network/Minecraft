@@ -1,11 +1,10 @@
 remote_theme: just-the-docs/just-the-docs
 title: IMS - Network Docs
 description: זה הויקי של שרת המיינקראפט שלנו, כל מה שאתם צריכים לדעת נמצא פה
-baseurl: ""
+baseurl: "/Minecraft"
 url: "http://docs.ims-network.net/"
 search_enabled: true
 logo: "docs/photos/Home-icon.svg"
-permalink: pretty
 search:
   # Split pages into sections that can be searched individually
   # Supports 1 - 6, default: 2
