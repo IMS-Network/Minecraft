@@ -2,9 +2,10 @@
 layout: default
 nav_order: 0
 ---
-<h1><span style="font-size:36px"><span dir="rtl">ברוכים הבאים לויקי שלנו</span></span></h1>
+<span dir="rtl"
+<h1><span style="font-size:36px"><span dir="rtl">ברוכים הבאים לויקי שלנו</span></h1>
 
-<p><span dir="rtl"><span style="font-size:16px">זה הויקיפדייה הרשמית של IMS, כאן מופיע כל המידע על אופן השימוש בשרת המשחק שלנו.</span><br />
+<p>><span style="font-size:16px">זה הויקיפדייה הרשמית של IMS, כאן מופיע כל המידע על אופן השימוש בשרת המשחק שלנו.</span><br />
 בשביל נכנסים חדשים, קראו את דף המידע הזה:<br />
 האייפי של השרת שלנו:<br />
 <span class="fs-3">
@@ -25,10 +26,9 @@ mc.ims-network.net<br />
 במידה ואתם מוצאים שגיאת כתיב או מידע שגוי כל אחד מכם רשאי לתקן (אם אתם יודעים שפת HTML אז לא אמור להיות לכם בעייה)<br />
 אם אתם רוצים לתקן ולהוסיף אנחנו ממליצים להשמש במנוע הHTML של 4html.net. עבדנו יחד איתם בשביל לתרגם ולהתאים את המנוע לתמיכה בשפה העברית והוא נראה בדיוק כמו כל מסמך Word</span></p>
 
-<pre>
-<span dir="rtl">
 <span class="fs-3">
 [מנוע HTML](https://4html.net/1-913.html){: .btn .btn-blue }
+</span>
 </span>
 
 ![מידע כללי מעוצב](https://user-images.githubusercontent.com/90725541/163818697-7e028c65-1b17-4440-b1de-17e8b4a5bd4a.png)
