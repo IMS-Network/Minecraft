@@ -2,21 +2,31 @@
 layout: default
 nav_order: 0
 ---
-<h1><span dir="rtl">ברוכים הבאים לויקי שלנו</span></h1>
+<h1><span style="font-size:36px"><span dir="rtl">ברוכים הבאים לויקי שלנו</span></span></h1>
 
-<p>זה הויקיפדייה הרשמית של IMS, כאן מופיע כל המידע על אופן השימוש בשרת המשחק שלנו.<br />
+<p><span dir="rtl"><span style="font-size:16px">זה הויקיפדייה הרשמית של IMS, כאן מופיע כל המידע על אופן השימוש בשרת המשחק שלנו.</span><br />
 בשביל נכנסים חדשים, קראו את דף המידע הזה:<br />
 האייפי של השרת שלנו:<br />
+<span class="fs-3">
 mc.ims-network.net<br />
-{: .label }<br />
-<br />
-אודות ויקיפדייה:<br />
-היקיפדייה נוצרה בזכות מנוע&nbsp;<a dir="ltr" href="https://jekyllrb.com/" target="_blank">Jekyll </a>&nbsp;ובשימוש התוסף של <a href="https://just-the-docs.github.io/just-the-docs/" target="_blank">Just The Docs</a><br />
-כל הקוד של הויקיפדייה זמין ב-GitHub שלנו, יחד אם הקוד של האפלקצייה שלנו&nbsp;<img alt="wink" height="23" src="https://4html.net/ckeditor5/plugins/smiley/images/wink_smile.png" title="wink" width="23" /><br />
+{: .label }</span></p>
+
+<h2>למבקרים ראשונים בויקי</h2>
+
+<p>הויקי היא מאוד פשוטה לניווט וחיפוש, סרגל החיפוש אחראי על מציאת דברים בויקי שם אפשר לרשום הכל לדוגמא &quot;איך משנים סיסמה&quot;<br />
+בצעד שמאל של הויקי תוכלו למצוא את תוכן הויקי שלנו, שם יהיה כל הדפים מאורגנים לפי הסדר של הדברים בשרת.<br />
+במרכז זה תוכן הדף (מה שאתם קוראים עכשיו), בנוסף ליד סרגל החיפוש תוכלו למצוא קישורים מהירים בשביל להגיע לאתר הראשי שלנו או להיכנס לדיסקרוד שלנו</p>
+
+<h3><span dir="rtl"><strong>אודות ויקיפדייה:</strong></span></h3>
+
+<p><span dir="rtl">היקיפדייה נוצרה בזכות מנוע&nbsp;<a dir="ltr" href="https://jekyllrb.com/" target="_blank">Jekyll </a>&nbsp;ובשימוש התוסף של <a href="https://just-the-docs.github.io/just-the-docs/" target="_blank">Just The Docs</a><br />
+כל הקוד של הויקיפדייה זמין ב-GitHub שלנו, יחד אם הקוד של האפלקצייה שלנו<br />
 אנחנו מקדישים זמן בשביל לרשום את הויקיפדייה שלנו על מנת להסביר לכם כיצד להשתמש בשירות שלנו.<br />
 במידה ואתם מוצאים שגיאת כתיב או מידע שגוי כל אחד מכם רשאי לתקן (אם אתם יודעים שפת HTML אז לא אמור להיות לכם בעייה)<br />
-אם אתם רוצים לתקן ולהוסיף אנחנו ממליצים להשמש במנוע הHTML של 4html.net. עבדנו יחד איתם בשביל לתרגם ולהתאים את המנוע לתמיכה בשפה העברית והוא נראה בדיוק כמו כל מסמך Word</p>
+אם אתם רוצים לתקן ולהוסיף אנחנו ממליצים להשמש במנוע הHTML של 4html.net. עבדנו יחד איתם בשביל לתרגם ולהתאים את המנוע לתמיכה בשפה העברית והוא נראה בדיוק כמו כל מסמך Word</span></p>
 
+<pre>
+<span dir="rtl">
 <span class="fs-3">
 [מנוע HTML](https://4html.net/1-913.html){: .btn .btn-blue }
 </span>
