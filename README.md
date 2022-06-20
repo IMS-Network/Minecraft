@@ -49,5 +49,13 @@ mc.ims-network.net
 
 #### צרו קשר
 
-[![Website](docs/photos/Website-icon.svg)](https://israelmincraftml.wixsite.com/ims-network) [![Tweeter](broken-reference)](https://twitter.com/network\_ims) 
-[![Discord](docs/photos/Discord-icon.svg)](https://discord.ims-network.net) [![youtube](broken-reference)](https://www.youtube.com/channel/UC2k502VERIriL01UtnpE\_wQ) [![לוגו Git](broken-reference)](https://github.com/IMS-Network) [![instngram](broken-reference)](https://www.instagram.com/ims\_\_network/) [![facebook](broken-reference)](https://www.facebook.com/IMSNetworkOfficial) [![Ticktok](broken-reference)](https://www.tiktok.com/@ims\_network) [![Reddit](broken-reference)](https://www.reddit.com/r/IMS\_Network/) [![mail](broken-reference)](mailto:support@ims-network.net?subject=\[GitHub])
+[![Website](docs/photos/Website-icon.svg)](https://israelmincraftml.wixsite.com/ims-network) 
+[![Tweeter](broken-reference)](https://twitter.com/network\_ims) 
+[![Discord](docs/photos/Discord-icon.svg)](https://discord.ims-network.net) 
+[![youtube](docs/photos/Youtube-icon.svg)](https://www.youtube.com/channel/UC2k502VERIriL01UtnpE\_wQ) 
+[![Git](docs/photos/Github-icon.svg)](https://github.com/IMS-Network) 
+[![instngram](docs/photos/Instagram-icon.svg)](https://www.instagram.com/ims\_\_network/) 
+[![facebook](docs/photos/Facebook-icon.svg)](https://www.facebook.com/IMSNetworkOfficial) 
+[![Ticktok](docs/photos/Facebook-icon.svg)](https://www.tiktok.com/@ims\_network) 
+[![Reddit](docs/photos/Reddit-icon)](https://www.reddit.com/r/IMS\_Network/) 
+[![mail](docs/photos/Email-icon.svg)](mailto:support@ims-network.net?subject=\[GitHub])
