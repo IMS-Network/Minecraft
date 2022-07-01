@@ -5,7 +5,7 @@
 ## 👋 כניסה ראשונה <a href="#welcome" id="welcome"></a>
 
 * [כניסה ראשונה](welcome/first-join/README.md)
-  * [💫 כניסה ראשונה ללא אלפיין](welcome/first-join/undefined.md)
+  * [💫 כניסה ראשונה ללא אלפיין](welcome/first-join/login-java.md)
   * [🚨 בעיות בכניסה לשרת](welcome/first-join/errors.md)
 * [😎 מתחילים לשחק](welcome/start-palying.md)
 
