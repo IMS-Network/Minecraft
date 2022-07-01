@@ -53,7 +53,7 @@ mc.ims-network.net
 
 ## זהו אתם בפנים
 
-![הודעת הצלחה](<../../.gitbook/assets/image (1).png>)
+![הודעת הצלחה](<../../.gitbook/assets/image (1) (1).png>)
 
 ## שלב 4 לא חובה
 
