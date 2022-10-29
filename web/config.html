@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ORAVELL Launcher Config</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" href="resources/exe_logo.png">
+    <script src="config.js"></script>
+    <style>
+        img {
+            margin: 3px;
+        }
+    </style>
+</head>
+<style>
+    @import url('https://fonts.googleapis.com/css2?family=M+PLUS+Rounded+1c:wght@700;800;900&display=swap');
+    </style>
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.12.1/css/all.css" crossorigin="anonymous">
+
+<body>
+    <center>
+        <img src="resources/Logo.png" class="logo"><br>
+        <h1><i class='fa fa-cogs'></i> Settings</h1><h2><i class='fas fa-memory'></i> RAM</h2>
+        <input type="number" id="ram_mb" min="4096" max="32768" step="256"><br>
+        <h2><i class='fa fa-desktop'></i> Resolution</h2>
+        <h2>
+        <input type="number" id="res_x" min="128" max="6000" step="1">
+        x
+        <input type="number" id="res_y" min="128" max="6000" step="1"><br>
+        </h2>
+        <div>
+            <h2><i class='fa fa-check'></i> Full Screen Mode</h2>
+            <input type="checkbox" name="" id="fullscreen" style="width: 30px !important;  transform: translateY(-50%);">
+        </div>
+        <button class="button" role="button" id="save_btn"><i class='fa fa-save'></i> Save</button>
+    </center>
+</body>
+</html>

@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ORAVELL Launcher</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" href="resources/exe_logo.png">
+    <script src="webjs.js"></script>
+
+</head>
+<style>
+    @import url('https://fonts.googleapis.com/css2?family=M+PLUS+Rounded+1c:wght@700;800;900&display=swap');
+    </style>
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.12.1/css/all.css" crossorigin="anonymous">
+<body>
+    <center>
+        <img src="resources/Logo.png" class="logo"><br>
+        <h1><i class='fa fa-user'></i> Username</h1>
+        <p>Write Your Minecraft Username Here <i class='fa fa-arrow-down'></i></p>
+        <input type="text" id="username"><br>
+        <h2><i class='fa fa-key'></i> Login Method</h2>
+        <p>Select Your Login Method</p>
+        <select name="Login Method" id="login_method">
+            <option value="1">Microsoft</option>
+            <option value="2">Offline</option>
+        </select><br>
+        <h2><i class='fa fa-lock'></i> Password</h2>
+        <p>We Don't See Any Of The Information Here, It Is Stored Locally</p>
+        <button class="button" role="button" id="login_btn"><i class='fas fa-door-open'></i> Login</button>
+        <button class="button" role="button" id="logout_btn"><i class='fas fa-door-closed'></i> Logout</button>
+        <!--img src="resources/login_black.png" id= "login_btn"><br>
+        <img src="resources/logout_black.png" id="logout_btn"><br>!-->
+        <img src="resources/config_black.png" id= "config_btn" align="right">
+    </center>
+</body>
+</html>
