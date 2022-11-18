@@ -1,2 +1,2 @@
-# Minecraft Alfine Luncher Repo
-Welcome To Our Minecraft Launcher
+# Minecraft Bugs & Suggestions
+This Repository Is The Home For The Collocation Of Bugs And Suggestions Regarding Our Minecraft Server Network
