@@ -1,0 +1,24 @@
+[submodule "BungeeCord/PixelMOTD"]
+	path = BungeeCord/PixelMOTD
+	url = https://github.com/ShieldCommunity/PixelMOTD
+[submodule "BungeeCord/Triton"]
+	path = BungeeCord/Triton
+	url = https://github.com/tritonmc/Triton
+[submodule "BungeeCord/LockLogin"]
+	path = BungeeCord/LockLogin
+	url = https://github.com/IMS-Network/LockLogin
+[submodule "BungeeCord/ajQueue"]
+	path = BungeeCord/ajQueue
+	url = https://github.com/ajgeiss0702/ajQueue
+[submodule "BungeeCord/LuckPerms"]
+	path = BungeeCord/LuckPerms
+	url = https://github.com/LuckPerms/LuckPerms
+[submodule "BungeeCord/Geyser"]
+	path = BungeeCord/Geyser
+	url = https://github.com/GeyserMC/Geyser
+[submodule "BungeeCord/Plan"]
+	path = BungeeCord/Plan
+	url = https://github.com/plan-player-analytics/Plan
+[submodule "BungeeCord/AzLink"]
+	path = BungeeCord/AzLink
+	url = https://github.com/Azuriom/AzLink
